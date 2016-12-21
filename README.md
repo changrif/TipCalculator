@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![logo](https://github.com/changrif/TipCalculator/blob/master/TipCalcGif.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
