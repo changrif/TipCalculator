@@ -4,7 +4,7 @@
 
 Submitted by: Charles "Chandler" Griffin
 
-Time spent: 5 hours spent in total
+Time spent: 15 hours spent in total
 
 ## User Stories
 
